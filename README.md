@@ -40,7 +40,7 @@ I have made a specific file that has Street Level Webcams so you can see what ot
 [StreetCams.md](StreetCams.md)  This is a work in progress! PR's welcome
 
 
-# What does Science Know about the Disease Covid-19 and the Virus SARS-CoV-2. Specifically how to kill it!
+# What does Science Know about the Disease Covid-19 and the Virus SARS-CoV-2. Specifically how to stop it from replicating!
 
 ??
 
