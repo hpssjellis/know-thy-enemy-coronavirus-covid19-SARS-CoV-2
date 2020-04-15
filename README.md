@@ -9,7 +9,7 @@ The website gitpages version of this page is at [https://hpssjellis.github.io/kn
 The Github that can be forked is at [https://github.com/hpssjellis/know-thy-enemy-coronavirus-covid19-SARS-CoV-2](https://github.com/hpssjellis/know-thy-enemy-coronavirus-covid19-SARS-CoV-2)
 
 
-## Who am I
+# Who am I
 
 My name is Jeremy Ellis, I have a B.Sc. in Chemistry, along with other Degrees and Diplomas. I have taught Physics, Math, Science and through constant Professional Development I am self-taught at Animation (Blender), 3D Printing, [https://github.com/hpssjellis/arduino-high-school-robotics-course](Robotics) and lately [Machine Learning (Deep Learning using tensorflowjs)](http://rocksetta.com/tensorflowjs). These self taught skills I am now teaching courses on full time. I have the skill of being able to simplify complex topics in an understandable format for most people. I am now turning my attention to Covid-19. I expect no-one to read this page, the point of this study is to try to understand this Pandemic at a local, human point of view, and see if I can simplify some of the confusing points.
 
@@ -28,7 +28,15 @@ Also from [https://en.wikipedia.org/wiki/Politics](Wiki) Politics is the set of 
 
 Unfortunately when we put Politics together with Science about a topic that has not specifically been tested we are going to have issues.
 
-<iframe width=400 height=300 src="https://www.worldometers.info/coronavirus/">
-</iframe>
+[https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+
+
+The best anyone can do is keep an open mind about how to proceed and constantly update based on new science as it become available.
+
+## Street Level WebCams
+
+I have made a specific file that has Street Level Webcams so you can see what other places around the world are doing to battle covid19
+
+[StreetCams.md](StreetCams.md)
 
 
