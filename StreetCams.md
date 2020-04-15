@@ -10,6 +10,10 @@ Many of these are from EarthCam as they allow zooming and we can see peoples fac
 
 
 
+[https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html](https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html)
+
+
+
 
 
 
