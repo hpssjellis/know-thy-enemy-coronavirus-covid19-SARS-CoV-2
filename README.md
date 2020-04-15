@@ -31,12 +31,19 @@ Unfortunately when we put Politics together with Science about a topic that has 
 [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 
-The best anyone can do is keep an open mind about how to proceed and constantly update based on new science as it become available.
+The best anyone can do is keep an open mind about how to proceed and constantly update your knowledge based on new science as it become available.
 
 ## Street Level WebCams
 
 I have made a specific file that has Street Level Webcams so you can see what other places around the world are doing to battle covid19
 
-[StreetCams.md](StreetCams.md)
+[StreetCams.md](StreetCams.md)  This is a work in progress! PR's welcome
+
+
+# What does Science Know about the Disease Covid-19 and the Virus SARS-CoV-2. Specifically how to kill it!
+
+??
+
+
 
 
