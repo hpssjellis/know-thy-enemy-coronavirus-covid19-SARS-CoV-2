@@ -2,7 +2,7 @@
 
 Links to really good street level cams showing what other people are doing to battle Covid 19
 
-Most of these are from EarthCam as they allow zooming and we can see peoples faces.
+Many of these are from EarthCam as they allow zooming and we can see peoples faces.
 [https://www.earthcam.com/](https://www.earthcam.com/)
 
 
@@ -19,8 +19,8 @@ Most of these are from EarthCam as they allow zooming and we can see peoples fac
 
 
 
-        
- <iframe width="250" height="140" src="https://www.earthcam.com/cams/newyork/timessquare/?cam=tsstreet" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 
 
