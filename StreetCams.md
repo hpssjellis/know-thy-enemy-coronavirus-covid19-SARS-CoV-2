@@ -7,6 +7,16 @@ Many of these are from EarthCam as they allow zooming and we can see peoples fac
 
 
 
+
+
+
+
+
+
+
+
+
+
 [https://www.earthcam.com/cams/newyork/timessquare/?cam=tsstreet](https://www.earthcam.com/cams/newyork/timessquare/?cam=tsstreet)
 
 
