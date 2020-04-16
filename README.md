@@ -45,7 +45,7 @@ I have made a specific file that has Street Level Webcams so you can see what ot
 Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a role in weakening a viral envelope. [https://www.pbs.org/newshour/science/how-long-do-cold-and-flu-viruses-stay-contagious-on-public-surfaces](https://www.pbs.org/newshour/science/how-long-do-cold-and-flu-viruses-stay-contagious-on-public-surfaces)
 
 
-"The dryer air may also allow the virus to stay airborne longer and increase the chance of another person coming in contact through inhalation," says Bilsky. This has to do with respiratory droplet formations. In dry air, the droplets remain smaller and lighter, allowing them to spread further. However, in more humid conditions, droplets can be larger and heavier, making them fall to the ground faster.[https://www.insider.com/does-cold-air-kill-germs-and-viruses](https://www.insider.com/does-cold-air-kill-germs-and-viruses)
+"The dryer air may also allow the virus to stay airborne longer and increase the chance of another person coming in contact through inhalation," says Bilsky. This has to do with respiratory droplet formations. In dry air, the droplets remain smaller and lighter, allowing them to spread further. However, in more humid conditions, droplets can be larger and heavier, making them fall to the ground faster. [https://www.insider.com/does-cold-air-kill-germs-and-viruses](https://www.insider.com/does-cold-air-kill-germs-and-viruses)
 
 
 
