@@ -42,7 +42,9 @@ I have made a specific file that has Street Level Webcams so you can see what ot
 
 # What does Science Know about the Disease Covid-19 and the Virus SARS-CoV-2. Specifically how to stop it from replicating!
 
-??
+[Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a role in weakening a viral envelope. But one of the main factors is moisture.](https://www.pbs.org/newshour/science/how-long-do-cold-and-flu-viruses-stay-contagious-on-public-surfaces)
+
+
 
 
 
