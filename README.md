@@ -102,5 +102,5 @@ Poor Social Distance. Both reciever and emitter have homemade cloth masks on, Ou
 
 
 
-Good Social Distance. Reciever No homemade cloth mask On, Emitter No homemade cloth mask, Outcome: Hopeful
+Good Social Distance. Both receiver and emitter without masks, Outcome: Hopeful
 ![](gifs/masks-no-6ft-B0001-0120.gif)
