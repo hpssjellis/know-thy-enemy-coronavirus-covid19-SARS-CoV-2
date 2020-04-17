@@ -85,7 +85,7 @@ Good Social Distance. Reciever No homemade cloth mask On, Emitter No homemade cl
 
 
 
-Poor Social Distance. Reciever homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
+Poor Social Distance. Reciever no mask, Emitter no mask, Outcome: Infected
 ![](gifs/masks-no-close0001-0120.gif)
 
 
