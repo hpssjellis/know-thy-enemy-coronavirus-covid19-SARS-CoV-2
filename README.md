@@ -75,6 +75,9 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 
 
 
+### Full Covid-19 Artisitic Simulations and other Mask makibng videos playlist at https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+
+
 
 Poor Social Distance. Reciever no mask, Emitter no mask, Outcome: Infected
 ![](gifs/masks-no-close0001-0120.gif)
