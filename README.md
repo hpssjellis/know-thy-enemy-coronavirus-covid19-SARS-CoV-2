@@ -80,27 +80,27 @@ Poor Social Distance. Reciever homemade cloth mask On, Emitter no homemade cloth
 
 
 Good Social Distance. Reciever No homemade cloth mask On, Emitter No homemade cloth mask, Outcome: Hopeful
-![](masks-no-6ft-B0001-0120.gif)
+![](gifs/masks-no-6ft-B0001-0120.gif)
 
 
 
 
 Poor Social Distance. Reciever homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
-![](masks-no-close0001-0120.gif)
+![](gifs/masks-no-close0001-0120.gif)
 
 
 
 
 
 Poor Social Distance. Reciever No homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
-![](masks-with-mask-close-B-one-mask0001-0120.gif)
+![](gifs/masks-with-mask-close-B-one-mask0001-0120.gif)
 
 
 
 
 
 Poor Social Distance. Reciever No homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
-![](masks-with-mask-close-B0001-0120.gif)
+![](gifs/masks-with-mask-close-B0001-0120.gif)
 
 
 
