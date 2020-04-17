@@ -79,31 +79,31 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 
 
 
-Poor Social Distance. Reciever no mask, Emitter no mask, **Outcome: Infected**
+Poor Social Distance. Receiver no mask, Emitter no mask, **Outcome: Infected**
 ![](gifs/masks-no-close0001-0120.gif)
 
 
 
 
-Poor Social Distance. Reciever homemade cloth mask On, Emitter no mask, **Outcome: unknown**
+Poor Social Distance. Receiver homemade cloth mask On, Emitter no mask, **Outcome: unknown**
 ![](gifs/masks-close-other-mask0001-0120.gif)
 
 
 
 
-Poor Social Distance. Reciever No Mask, Emitter homemade cloth mask on, **Outcome: Hopeful**
+Poor Social Distance. Receiver No Mask, Emitter homemade cloth mask on, **Outcome: Hopeful**
 ![](gifs/masks-with-mask-close-B-one-mask0001-0120.gif)
 
 
 
 
 
-Poor Social Distance. Both reciever and emitter have homemade cloth masks on, **Outcome: Hopeful**
+Poor Social Distance. Both Receiver and Emitter have homemade cloth masks on, **Outcome: Hopeful**
 ![](gifs/masks-with-mask-close-B0001-0120.gif)
 
 
 
 
 
-Good Social Distance. Both receiver and emitter without masks, **Outcome: Hopeful**
+Good Social Distance. Both Receiver and Emitter without masks, **Outcome: Hopeful**
 ![](gifs/masks-no-6ft-B0001-0120.gif)
