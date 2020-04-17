@@ -79,13 +79,13 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 
 
 
-Poor Social Distance. Reciever no mask, Emitter no mask, Outcome: Infected
+Poor Social Distance. Reciever no mask, Emitter no mask, *Outcome: Infected*
 ![](gifs/masks-no-close0001-0120.gif)
 
 
 
 
-Poor Social Distance. Reciever homemade cloth mask On, Emitter no mask, Outcome: unknown
+Poor Social Distance. Reciever homemade cloth mask On, Emitter no mask, *Outcome: unknown*
 ![](gifs/masks-close-other-mask0001-0120.gif)
 
 
