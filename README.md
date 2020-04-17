@@ -73,29 +73,33 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 
 ## Artistic Mask Animations
 
-Poor Social Distance. Reciever cloth mask On, Emitter no Mask, Outcome: unknown!
+Poor Social Distance. Reciever homemade cloth mask On, Emitter no homemade cloth mask, Outcome: unknown
 ![](gifs/masks-close-other-mask0001-0120.gif)
 
 
 
 
+Good Social Distance. Reciever No homemade cloth mask On, Emitter No homemade cloth mask, Outcome: Hopeful
 ![](masks-no-6ft-B0001-0120.gif)
 
 
 
 
+Poor Social Distance. Reciever homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
 ![](masks-no-close0001-0120.gif)
 
 
 
 
 
+Poor Social Distance. Reciever No homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
 ![](masks-with-mask-close-B-one-mask0001-0120.gif)
 
 
 
 
 
+Poor Social Distance. Reciever No homemade cloth mask On, Emitter homemade cloth mask on, Outcome: Hopeful
 ![](masks-with-mask-close-B0001-0120.gif)
 
 
