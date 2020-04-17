@@ -48,6 +48,32 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 "The dryer air may also allow the virus to stay airborne longer and increase the chance of another person coming in contact through inhalation," says Bilsky. This has to do with respiratory droplet formations. In dry air, the droplets remain smaller and lighter, allowing them to spread further. However, in more humid conditions, droplets can be larger and heavier, making them fall to the ground faster. [https://www.insider.com/does-cold-air-kill-germs-and-viruses](https://www.insider.com/does-cold-air-kill-germs-and-viruses)
 
 
+.
 
+
+
+
+.
+
+
+
+
+
+.
+
+
+
+
+
+.
+
+
+
+
+
+## Artistic Mask Animations
+
+
+![mask on](gifs/masks-close-other-mask0001-0120.gif)
 
 
