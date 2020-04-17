@@ -75,7 +75,7 @@ Temperature, ultraviolet radiation from sunlight, pH changes and salt can play a
 
 
 
-### Full Covid-19 Artisitic Simulations and other Mask makibng videos playlist at https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+### Full Covid-19 Artisitic Simulations and Mask making videos playlist at [https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq](https://www.youtube.com/playlist?list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq)
 
 
 
